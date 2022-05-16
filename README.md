@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Rahila, I'm 25 years old.
 
 
-**I'm an aspiring  ✨ _Full Stack Developer_ ✨ currently looking for an opportunity to work as a developer.
+** I'm an aspiring  ✨ _Full Stack Developer_ ✨ currently looking for an opportunity to work as a developer.
 
 Here are some ideas to get you started:
 
