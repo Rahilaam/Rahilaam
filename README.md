@@ -1,7 +1,7 @@
-### Hi there 👋 My name is Rahila
+### Hi there 👋 My name is Rahila, I'm 25 years old.
 
-<!--
-**Rahilaam/Rahilaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**I'm an aspiring  ✨ _Full Stack Developer_ ✨ currently looking for an opportunity to work as a developer.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
